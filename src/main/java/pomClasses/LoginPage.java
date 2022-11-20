@@ -40,6 +40,8 @@ public class LoginPage extends Util1{
 
 	public void clickOnLoginBtn() {
 		sublitBtn.click();
+		this.driver=driver;
+		
 	}
 	
 
